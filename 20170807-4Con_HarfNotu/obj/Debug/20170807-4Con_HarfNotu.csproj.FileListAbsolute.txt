@@ -1,0 +1,5 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-4Con_HarfNotu\20170807-4Con_HarfNotu\bin\Debug\20170807-4Con_HarfNotu.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-4Con_HarfNotu\20170807-4Con_HarfNotu\bin\Debug\20170807-4Con_HarfNotu.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-4Con_HarfNotu\20170807-4Con_HarfNotu\bin\Debug\20170807-4Con_HarfNotu.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-4Con_HarfNotu\20170807-4Con_HarfNotu\obj\Debug\20170807-4Con_HarfNotu.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-4Con_HarfNotu\20170807-4Con_HarfNotu\obj\Debug\20170807-4Con_HarfNotu.pdb
